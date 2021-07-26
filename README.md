@@ -2,7 +2,7 @@ Greetings, My name is Sawyer Hannel.
 
 - recently graduated with B.S. in Computer Science GPA: 3.61
 - currently enrolled in M.S. (Thesis) with Auburn University
-- Interested in Data Science and Artificial Intelligence
+- Interested in data science, software engineering and artificial intelligence
 - Currently out of Fresno, CA.
 
 My repositories are made up of a combination of academic and personal projects. 
