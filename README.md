@@ -8,6 +8,6 @@ Hello, My name is Sawyer Hannel, or Soiboi on Github.
 My repositories are made up of a combination of academic and personal projects. 
 Some of my current personal project include a stock prediction applicaiton, Drive-thru and line estimation application, sports prediction application and company web application. 
 
-If you need to reach me, below is my information.
+If you need to reach me, here is my information.
   Phone: 559-612-2926
   Email: SawuerHannel8@Gmail.com
