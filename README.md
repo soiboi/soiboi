@@ -1,4 +1,4 @@
-Hello, My name is Sawyer Hannel, or Soiboi on Github.
+Greetings, My name is Sawyer Hannel.
 
 - recently graduated with B.S. in Computer Science GPA: 3.61
 - currently enrolled in M.S. (Thesis) with Auburn University
