@@ -10,4 +10,4 @@ Some of my current personal project include a stock prediction applicaiton, Driv
 
 If you need to reach me, here is my information.
   Phone: 559-612-2926
-  Email: SawuerHannel8@Gmail.com
+  Email: SawyerHannel8@Gmail.com
