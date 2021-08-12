@@ -1,4 +1,4 @@
-Greetings, My name is Sawyer Hannel.
+Hello, My name is Sawyer Hannel.
 
 - Recent graduate with B.S. in Computer Science GPA: 3.61
 - Currently enrolled in M.S. (Thesis) with Auburn University
